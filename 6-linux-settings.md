@@ -1,70 +1,13 @@
 # Linux 下 Shadowsocks 設置方法
 
-## 1、桌面用戶安裝 GUI 客戶端 shadowsocks-qt5 使用
+## 1、桌面用戶安裝 GUI 客戶端
 
-桌面端我們推薦使用shadowsocks-qt5 ，下面的教程 fork 自開發者的[文檔](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
+這裏我們推薦使用 [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
 
-### Ubuntu
+1. [安裝方法](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
+2. [使用方法](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C)
+3. [常見問題](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95)
 
-通過 PPA 源安裝，僅支持 Ubuntu 14.04 或更高版本
-
-```
-sudo add-apt-repository ppa:hzwhuang/ss-qt5
-sudo apt-get update
-sudo apt-get install shadowsocks-qt5
-```
-
-### Debian
-
-可以嘗試安裝 Ubuntu PPA 源的 deb 包，如果不行，請自行編譯
-
-```
-dpkg-buildpackage -uc -us -b
-```
-
-在上級目錄中將會生成 shadowsocks-qt5 的 deb 包，通過 `sudo dpkg -i` 來安裝
-
-注意：你可能需要安裝好的依賴關係：
-
-```
-sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libqtshadowsocks-dev libappindicator-dev libzbar-dev libbotan1.10-dev
-```
-
-### Fedora
-
-1. 使用 dnf 添加 shadowsocks 的 Copr 源
-
-```
-sudo dnf copr enable librehat/shadowsocks
-```
-
-2. 使用 dnf 更新 cache 並安裝
-
-```
-sudo dnf update
-sudo dnf install shadowsocks-qt5
-```
-
-如果使用傳統的yum 包管理工具的話，需要從[Copr](https://copr.fedoraproject.org/coprs/librehat/shadowsocks/)下載相應版本的repo 文件放到`/etc/yum.repos.d /` 下，然後通過`yum` 安裝：
-
-```
-sudo yum update
-sudo yum install shadowsocks-qt5
-```
-
-RHEL/CentOS 用戶請確認已經添加了[EPEL源](https://fedoraproject.org/wiki/EPEL)。
-
-### Arch
-
-[官方Community源](https://www.archlinux.org/packages/community/x86_64/shadowsocks-qt5/)
-
-### Gentoo
-
-[gentoo-zh](https://github.com/microcai/gentoo-zh)，由microcai維護
-
-### 其他發行版
-
-請自行抓取[源碼](https://github.com/shadowsocks/shadowsocks-qt5)編譯
 
 ## 2、服務器用戶命令行客戶端
 
