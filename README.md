@@ -31,7 +31,7 @@
 
 ## 8 Proxifier 設置教程
 
-Proxifier 設置教程
+[Proxifier 設置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/8-proxifier-settings.md)
 
 ## 9 申明
 
