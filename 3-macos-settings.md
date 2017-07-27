@@ -34,5 +34,5 @@
 
 如果您使用 Safari 瀏覽器，您無需進行任何操作，如果您使用 Chrome 或 Firefox 瀏覽器，請查看對應教程
 
-1. Chrome 瀏覽器配置使用教程
-2. Firefox 瀏覽器配置使用教程
+1. [Firefox 瀏覽器設置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-1-firefox-settings.md)
+2. [Chrome 瀏覽器設置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-2-chrome-settings.md)
