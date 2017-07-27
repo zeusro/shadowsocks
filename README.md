@@ -22,7 +22,7 @@
 
 ## 6 Linux 使用 Shadowsocks 設置教程
 
-Linux 下安裝配置 Shadowsocks 使用教程
+[Linux 下安裝配置 Shadowsocks 使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/6-linux-settings.md)
 
 ## 7 瀏覽器設置教程
 
