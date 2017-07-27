@@ -26,8 +26,8 @@ Linux 下安裝配置 Shadowsocks 使用教程
 
 ## 7 瀏覽器設置教程
 
-1. 7.1 Firefox 瀏覽器設置教程
-2. 7.2 Chrome 瀏覽器設置教程
+1. Firefox 瀏覽器設置教程
+2. Chrome 瀏覽器設置教程
 
 ## 8 Proxifier 設置教程
 
