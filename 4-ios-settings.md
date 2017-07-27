@@ -25,18 +25,16 @@
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d092d42d92.png)
 
-點擊 `Add Server`
+點擊 `Add Server` 即可添加您的節點信息
+
+**掃碼配置**
+點擊左上方圖標(綠色)即可掃碼配置
+
+**手動配置**
+點擊右上方 + (橙色)後按照提示配置
 
 ![](https://ooo.0o0.ooo/2017/05/27/59292b6080ec4.png)
 
-**扫码配置**
-点击左上方图标(绿色)即可扫码配置
+在您完成配置後請到 Shadowrocket 的 Home 界麵點擊第一個滑塊以開啟 (紫色區域)* 
 
-**手动配置**
-点击右上方 + (橙色)后按照提示配置
-
-![](https://ooo.0o0.ooo/2017/05/27/59292b6080ec4.png)
-
-在您完成配置后请到 Shadowrocket 的 Home 界面点击第一个滑块以开启 (紫色区域)* 
-
-如需要關閉 Shadowsocks，打開 Shadowrocket 的 Home 点击滑块即可关闭
+如需要關閉 Shadowsocks，打開 Shadowrocket 的 Home 點擊滑塊即可關閉
