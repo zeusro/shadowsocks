@@ -14,8 +14,7 @@
 
 您可以通過chrome商店安裝 [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) 擴展
 
-如果無法訪問，您也可以直接在 [Github](https://github.com/FelisCatus/SwitchyOmega/releases) 下載 .crx 文件并拖入 [chrome://extensions/](chrome://extensions/)（請使用 Chrome 瀏覽器點擊）
-
+如果無法訪問，您也可以直接在 [Github](https://github.com/FelisCatus/SwitchyOmega/releases) 下載 .crx 文件并拖入 `chrome://extensions/` （請使用 Chrome 瀏覽器複製粘貼輸入地址欄並回車訪問）
 
 ## 2、擴展的配置(以下方法 2 選 1 即可)
 
