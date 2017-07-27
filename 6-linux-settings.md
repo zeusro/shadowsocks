@@ -150,5 +150,5 @@ AttributeError: /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1: undefined symbol: EV
 
 ## 3、瀏覽器使用方法
 
-1. Chrome 瀏覽器配置使用教程
-2. Firefox 瀏覽器配置使用教程
+1. [Firefox 瀏覽器設置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-1-firefox-settings.md)
+2. [Chrome 瀏覽器設置教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-2-chrome-settings.md)
