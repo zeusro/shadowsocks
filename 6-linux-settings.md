@@ -1,6 +1,6 @@
 # Linux 下 Shadowsocks 設置方法
 
-## 1、桌面用戶安裝 GUI 客戶端
+## 1、GUI 客戶端
 
 這裏我們推薦使用 [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)
 
@@ -9,7 +9,7 @@
 3. [常見問題](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95)
 
 
-## 2、服務器用戶命令行客戶端
+## 2、命令行客戶端
 
 下面我們以 [Python 版](https://pypi.python.org/pypi/shadowsocks)的 Shadowsocks 為例
 
@@ -146,3 +146,9 @@ AttributeError: /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1: undefined symbol: EV
 然後重新啓動 Shadowsocks 即可
 
 [參考](https://blog.lyz810.com/article/2016/09/shadowsocks-with-openssl-greater-than-110/)
+
+
+## 3、瀏覽器使用方法
+
+1. Chrome 瀏覽器配置使用教程
+2. Firefox 瀏覽器配置使用教程
