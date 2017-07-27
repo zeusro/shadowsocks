@@ -18,11 +18,13 @@
 
 登陸我們的 [Portal](https://portal.shadowsocks.com.au/)，在 服務 > [我的服務](https://portal.shadowsocks.com.au/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，點擊配置文件下載，即可得到一個 `gui-config.json` 文件
 
+![](https://ooo.0o0.ooo/2017/01/04/586d06d54ada2.png)
+
 ![](https://ooo.0o0.ooo/2017/01/04/586d06f3a425b.png)
 
 您也可以通過二維碼方式單獨增加節點，在您右下方狀態欄 Shadowsocks 圖標右鍵-服務器-掃描屏幕上的二維碼
 
-*提示*: 此二維碼同樣適應於 ios 和 Android
+*提示*: 此二維碼同樣適應於其他客戶端
 
 ![](https://ooo.0o0.ooo/2017/05/22/5922fa22e6d8e.png)
 
