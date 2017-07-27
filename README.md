@@ -18,7 +18,7 @@
 
 ## 5 Android 使用 Shadowsocks 設置教程
 
-Android 下安裝配置 Shadowsocks 使用教程
+[Android 下安裝配置 Shadowsocks 使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/5-android-settings.md)
 
 ## 6 Linux 使用 Shadowsocks 設置教程
 
