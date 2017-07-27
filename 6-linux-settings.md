@@ -2,7 +2,7 @@
 
 ## 1、桌面用戶安裝 GUI 客戶端 shadowsocks-qt5 使用
 
-桌面端我們推薦使用shadowsocks-qt5 ，下面的教程fork 自開發者的[文檔](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85% E6%8C%87%E5%8D%97)
+桌面端我們推薦使用shadowsocks-qt5 ，下面的教程 fork 自開發者的[文檔](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
 
 ### Ubuntu
 
