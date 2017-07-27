@@ -14,6 +14,8 @@
 
 ## 4 iOS 使用 Shadowsocks 設置教程
 
+[iOS 下安裝配置 Shadowsocks 使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/4-ios-settings.md)
+
 ## 5 Android 使用 Shadowsocks 設置教程
 
 ## 6 Linux 使用 Shadowsocks 設置教程
