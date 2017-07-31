@@ -10,7 +10,7 @@
 
 1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) （收費）
 2. [Wingy](https://itunes.apple.com/us/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8) （收費）
-3. [Waterdrop](https://itunes.apple.com/cn/app/waterdrop-shadowsocks-client-for-ios/id1212107997?mt=8) （目前免費）
+3. [Waterdrop](https://itunes.apple.com/us/app/waterdrop-shadowsocks-client-for-ios/id1212107997?mt=8) （目前免費）
 
 *注意*: App Store 上的 APP 是應用程式創作者維護，客戶端不是由我們開發的，定價與我們無關，請閣下自行決定是否購買
 
