@@ -26,8 +26,8 @@ Windows 用戶[點擊這裏](https://portal.shadowsocks.com.au/dl.php?type=d&id=
 
 macOS 用戶按客戶端不同分有兩種：
 
-1. [shadowsocksx對應的switchyomega配置文件](https://portal.shadowsocks.com.hk/dl.php?type=d&id=55)
-2. [shadowsocksx-ng對應的switchyomega配置文件](https://portal.shadowsocks.com.hk/dl.php?type=d&id=54)
+1. [shadowsocksx對應的switchyomega配置文件](https://portal.shadowsocks.com.au/dl.php?type=d&id=55)
+2. [shadowsocksx-ng對應的switchyomega配置文件](https://portal.shadowsocks.com.au/dl.php?type=d&id=54)
 
 然後打開 `Proxy SwitchyOmega` 的設置，選擇從備份文件恢復，然後選擇剛才下載的文件，如圖
 
