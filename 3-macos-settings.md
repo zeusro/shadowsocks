@@ -16,7 +16,7 @@
 
 ![](https://ooo.0o0.ooo/2017/05/23/592311b8f1a8d.png)
 
-登陸我們的 [Portal](https://portal.shadowsocks.com.au/)，在 服務 > [我的服務](https://portal.shadowsocks.com.au/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，查看您的節點信息
+登陸我們的 [Portal](https://portal.shadowsocks.la/)，在 服務 > [我的服務](https://portal.shadowsocks.la/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，查看您的節點信息
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d06d54ada2.png)
 
