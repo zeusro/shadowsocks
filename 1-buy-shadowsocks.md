@@ -1,6 +1,6 @@
 # Shadowsocks 賬號購買
 
-打開 [https://shadowsocks.com.au/](https://shadowsocks.com.au/)并點擊 [Order Now](https://portal.shadowsocks.com.au/link.php?id=5)，選擇適合自己的套餐並填寫基本信息后即可購買賬號
+打開 [https://shadowsocks.la/](https://shadowsocks.la/)并點擊 [Order Now](https://portal.shadowsocks.la/link.php?id=5)，選擇適合自己的套餐並填寫基本信息后即可購買賬號
 
 ## 普通版、高級版和旗艦版的區別
 
@@ -9,15 +9,15 @@
 旗艦版：適合對綫路敏感，要求速度保障的客戶
 定制版：目前暫時不開放
 
-閣下可以在[這裏](https://portal.shadowsocks.com.au/cart.php)查看我們的產品列表和介紹。
+閣下可以在[這裏](https://portal.shadowsocks.la/cart.php)查看我們的產品列表和介紹。
 
 # Shadowsocks 購買流程
 
-我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.com.au/cart.php?a=add&pid=36)按鈕后，選擇您的付款周期並繼續
+我們以旗艦版為例，點擊[立即購買](https://portal.shadowsocks.la/cart.php?a=add&pid=36)按鈕后，選擇您的付款周期並繼續
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d05895415d.png)
 
-之後您選擇的產品會加入購物車，如果您擁有優惠碼也可以輸入，如有疑問請在[這裏](https://portal.shadowsocks.com.au/submitticket.php?step=2&deptid=1) 和我們的銷售代表取得聯係
+之後您選擇的產品會加入購物車，如果您擁有優惠碼也可以輸入，如有疑問請在[這裏](https://portal.shadowsocks.la/submitticket.php?step=2&deptid=1) 和我們的銷售代表取得聯係
 
 接下來點擊 Checkout 后即可注冊賬號並付款
 
@@ -36,7 +36,7 @@
 
 # Shadowsocks 賬號查看
 
-購買完成后，請登錄 [我的產品 & 服務](https://portal.shadowsocks.com.au/clientarea.php?action=services) 頁面查看您購買的服務信息，產品信息包含了節點地址、端口、密碼、二維碼等
+購買完成后，請登錄 [我的產品 & 服務](https://portal.shadowsocks.la/clientarea.php?action=services) 頁面查看您購買的服務信息，產品信息包含了節點地址、端口、密碼、二維碼等
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d061ebb51f.png)
 
