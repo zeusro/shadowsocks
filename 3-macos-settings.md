@@ -18,11 +18,11 @@
 
 登陸我們的 [Portal](https://portal.shadowsocks.la/)，在 服務 > [我的服務](https://portal.shadowsocks.la/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，查看您的節點信息
 
-![](https://ooo.0o0.ooo/2017/01/04/586d06d54ada2.png)
+![](https://i.loli.net/2017/11/02/59fa820b000dd.png)
 
 並正確填寫到服務器設置裏
 
-![](https://ooo.0o0.ooo/2017/05/23/592311b8f3306.png)
+![](https://i.loli.net/2017/11/02/59fa820b1d2ca.png)
 
 您也可以通過二維碼方式單獨增加節點，點擊二維碼圖標，并且掃描屏幕上的二維碼即可
 
