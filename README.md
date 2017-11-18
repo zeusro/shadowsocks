@@ -27,7 +27,8 @@
 ## 7 瀏覽器設置教程
 
 1. [Firefox 瀏覽器設置教程 （擴展 Foxyproxy-Standard ）](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-1-firefox-settings.md)
-2. [Firefox / Chrome 瀏覽器設置教程 （擴展 Proxy SwitchyOmega）](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-2-chrome-settings.md)
+2. [Chrome 瀏覽器設置教程 （擴展 Proxy SwitchyOmega）](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-2-chrome-settings.md)
+3. [Firefox Quantum (Firefox 57 以上版本) 瀏覽器設置教程 （擴展 Proxy SwitchyOmega）](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/7-3-firefox-quantum-settings.md)
 
 ## 8 Proxifier 設置教程
 
