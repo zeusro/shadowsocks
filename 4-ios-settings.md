@@ -9,10 +9,7 @@
 請使用**非中國大陸區**的 Apple ID 搜索並購買應用，本站并不提供賬號，也不提供破解的程式
 
 1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) （收費）
-2. [Wingy](https://itunes.apple.com/us/app/shadowsocks-wingy-proxy-for-http-socks5-ss/id1148026741?mt=8) （收費）
-3. [Waterdrop](https://itunes.apple.com/us/app/waterdrop-shadowsocks-client-for-ios/id1212107997?mt=8) （目前免費）
-4. [Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8) （目前免費）
-5. [SsrConnectPro](https://itunes.apple.com/cn/app/ssrconnectpro/id1272045249) （目前免費，中國大陸區的賬戶可以下載）
+2. [Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8) （目前免費）
 
 *注意*: App Store 上的 APP 是應用程式創作者維護，客戶端不是由我們開發的，定價與我們無關，請閣下自行決定是否購買
 
@@ -36,7 +33,7 @@
 **手動配置**
 點擊右上方 + (橙色)後按照提示配置
 
-![](https://ooo.0o0.ooo/2017/05/27/59292b6080ec4.png)
+![](https://i.loli.net/2017/11/02/59fa820b25da6.jpeg)
 
 在您完成配置後請到 Shadowrocket 的 Home 界麵點擊第一個滑塊以開啟 (紫色區域)* 
 
