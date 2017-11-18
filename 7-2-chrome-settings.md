@@ -16,6 +16,8 @@
 
 如果無法訪問，您也可以直接在 [Github](https://github.com/FelisCatus/SwitchyOmega/releases) 下載 .crx 文件并拖入 `chrome://extensions/` （請使用 Chrome 瀏覽器複製粘貼輸入地址欄並回車訪問）
 
+本擴展同樣適用于 Firefox 57 (Firefox Quantum) 以上版本: 安裝鏈接 [Proxy SwitchyOmega](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/)
+
 ## 2、擴展的配置(以下方法 2 選 1 即可)
 
 ### 1、使用本站提供的已經設置好的備份直接恢復配置（推薦）
