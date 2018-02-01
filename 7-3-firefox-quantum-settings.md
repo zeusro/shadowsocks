@@ -21,10 +21,10 @@
 
 通過這個鏈接下載 switchyomega 的配置文件
 
-Windows 用戶[點擊這裏](https://portal.shadowsocks.la/dl.php?type=d&id=69)下載
+Windows 用戶[點擊這裏](https://portal.shadowsocks.to/dl.php?type=d&id=69)下載
 
 macOS 使用客戶端為 ShadowsocksX-NG 對應的配置文件：  
-[ShadowsocksX-NG 對應的 SwitchyOmega 配置文件](https://portal.shadowsocks.la/dl.php?type=d&id=68)
+[ShadowsocksX-NG 對應的 SwitchyOmega 配置文件](https://portal.shadowsocks.to/dl.php?type=d&id=68)
 
 然後打開 `Proxy SwitchyOmega` 的設置，選擇從備份文件恢復，然後選擇剛才下載的文件，如圖
 

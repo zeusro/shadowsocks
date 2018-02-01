@@ -16,7 +16,7 @@
 
 ## 4、配置 Shadowsocks 賬號
 
-登陸我們的 [Portal](https://portal.shadowsocks.la/)，在 服務 > [我的服務](https://portal.shadowsocks.la/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，點擊配置文件下載，即可得到一個 `gui-config.json` 文件
+登陸我們的 [Portal](https://portal.shadowsocks.to/)，在 服務 > [我的服務](https://portal.shadowsocks.to/clientarea.php?action=services) 頁面中，進入您的產品信息頁面，點擊配置文件下載，即可得到一個 `gui-config.json` 文件
 
 ![](https://i.loli.net/2017/11/02/59fa820b000dd.png)
 
@@ -38,7 +38,7 @@
 
 ![](https://ooo.0o0.ooo/2017/05/22/5922fe379b134.png)
 
-如果使用`PAC 模式` 無法訪問網站，請前往[這裡](https://portal.shadowsocks.la/dl.php?type=d&id=14) 下載 pac 配置文件，將 `pac.txt` 放在與shadowsocks.exe 相同的目錄文件夾下即可
+如果使用`PAC 模式` 無法訪問網站，請前往[這裡](https://portal.shadowsocks.to/dl.php?type=d&id=14) 下載 pac 配置文件，將 `pac.txt` 放在與shadowsocks.exe 相同的目錄文件夾下即可
 
 注意事項:
 
