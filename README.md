@@ -6,7 +6,7 @@
 
 ## 2 Windows 使用 Shadowsocks 設置教程
 
-[Windows 下安裝配置 Shadowsocks 使用教程](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/2-windows-settings.md)
+[Windows 下安裝配置 Shadowsocks 使用教程](2-windows-settings.zh.md)
 
 ## 3 macOS 使用 Shadowsocks 設置教程
 
